@@ -1,3 +1,0 @@
-#Sample file to check the remote is working
-
-#local changes to test the push command
